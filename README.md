@@ -3,7 +3,7 @@ This is the official repository of the Mystery Box Challenge organised by the Ti
 
 We recommend you all, to start with Arduino Micro-controller, as it is easy to learn, and code. But, if you want to explore more, you are more than welcome to use other microcontrollers.
 
-If you don't have Arduino, we recommend you, to practice coding using this tutorial
+If you don't have Arduino, we recommend you, to practice coding, and setting up your account on TinkerCad using this tutorial
 https://www.youtube.com/watch?v=3kDMYomFw5o
 
 If you plan, to buy Arduino, you need to download the Software, from below Website
