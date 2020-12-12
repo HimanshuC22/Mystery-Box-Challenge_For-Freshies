@@ -1,20 +1,19 @@
 # Mystery-Box-Challenge_For-Freshies
-This is the official repository of the Tinkering Bootcamp organised by the Tinkerers' Laboratory. All the material and resources will be updated here regularly which you can use for your reference.
+This is the official repository of the Mystery Box Challenge organised by the Tinkerers' Laboratory. All the material and resources can be used for your reference.
 
-For initial setup head over to:
+We recommend you all, to start with Arduino Micro-controller, as it is easy to learn, and code. But, if you want to explore more, you are more than welcome to use other microcontrollers.
 
+If you don't have Arduino, we recommend you, to practice coding using this tutorial
 https://www.youtube.com/watch?v=3kDMYomFw5o
 
+If you plan, to buy Arduino, you need to download the Software, from below Website
 https://www.arduino.cc/en/main/software
 
-### Week1: Introduction to Arduino, Sensors, Modules, Quiz & Challenge 1
-### Week2: Introduction to NodeMCU and ESP, Voice Assistant
-### Week3: Zigbee, Swarm networking, Chatbot, Project
-### Week4: Fundamentals of RaspberryPi and its application
-### Week5: Project 2 and Talks
+### Introduction to Arduino, Sensors, Modules, Quiz & Challenge 1
 
 
-Join our [Telegram group](https://t.me/joinchat/R1ahDxQ4YzQ3HFJXQiAbQA) for discussing your doubts.
+
+Join our [WhatsApp group](https://chat.whatsapp.com/Cdz5kd7npcg0lsmDHp5II5) for discussing your doubts.
 
 ***
 
