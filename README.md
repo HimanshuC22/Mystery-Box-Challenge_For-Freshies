@@ -6,7 +6,7 @@ We recommend you all, to start with Arduino Micro-controller, as it is easy to l
 If you don't have Arduino, we recommend you, to practice coding, and setting up your account on TinkerCAD using this tutorial <br>
 https://www.youtube.com/watch?v=3kDMYomFw5o
 
-If you plan, to buy Arduino, you need to download the Software, from below Website <br>
+If you plan, to buy Arduino, you need to download the Software, from the below website <br>
 https://www.arduino.cc/en/main/software
 
 ### Steps to be followed-
