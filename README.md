@@ -9,9 +9,9 @@ https://www.youtube.com/watch?v=3kDMYomFw5o
 If you plan, to buy Arduino, you need to download the Software, from below Website
 https://www.arduino.cc/en/main/software
 
-### Things to be done in Order-
+### Steps to be followed-
 1. Go through the 2 PPT's.
-2. We have added Arduino code (.ino files), which you can directly run in TinerCAD.
+2. We have added Arduino code (.ino files), which you can directly run in TinerCAD, and can play with it
 3. We have also, added some photos of how the sensors, looks like.
 4. After practising, you all have unlocked the skills, to participate in the [Mystery Box Challenge](https://docs.google.com/document/d/1b1nE6t7oxXSyu1lr7PiWFSRvwqNmygm4GKN123kOme8/edit).
 
