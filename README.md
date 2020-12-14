@@ -1,7 +1,7 @@
 # Mystery-Box-Challenge_For-Freshies
 This is the official repository of the Mystery Box Challenge organised by the Tinkerers' Laboratory. All the material and resources can be used for your reference.
 
-We recommend you all, to start with Arduino Micro-controller, as it is easy to learn, and code. But, if you want to explore more, you are more than welcome to use other microcontrollers.
+We recommend you all, to start with Arduino Micro-controller, as it is easy to learn, and code.
 
 If you don't have Arduino, we recommend you, to practice coding, and setting up your account on TinkerCAD using this tutorial <br>
 https://www.youtube.com/watch?v=3kDMYomFw5o
